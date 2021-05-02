@@ -53,6 +53,8 @@ Arte para Games:
 
 <https://kenney.nl/>
 
+<https://itch.io/c/1024319/maxparatas-asset-packs> 
+
 <https://publicdomainvectors.org/>  (Site com vetores de dominio público)
 
 <http://conceptartworld.com/> (Referência para artistas, livros, estudos em concept em geral)

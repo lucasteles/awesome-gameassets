@@ -127,6 +127,8 @@ Arte para Games:
 
 <https://pixabay.com> Site com vetores free
 
+
+
 <https://www.mixamo.com/#/> Animações
 
 <https://www.youtube.com/watch?v=ERAScO1s8Zk> Playlist para estudo do Rigify para Blender
@@ -150,6 +152,8 @@ Boas práticas para desenvolvimento mobile
 <https://freemusicarchive.org/>
 
 <https://pixabay.com/pt/music/>
+
+<https://transverseaudio.com/products>
 
 <https://www.premiumbeat.com/> - Músicas e FX de alta qualidade - pagos
 
